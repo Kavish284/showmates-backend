@@ -237,7 +237,6 @@ app.use("/blog", blogRoutes);
 //     // Call the sendEmailForGarba method
 //     await emailController.sendEmailForGarba(req, res);
 
-//     console.log("send mail");
 //     // Rest of your code
 //   } catch (error) {
 //     // Handle any errors here
